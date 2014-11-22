@@ -1,7 +1,7 @@
 playxl
 ======
 
-the play xl game is easy
+the play xl™ game is easy
 
 it's like dodgeball, but with a gun and flying. 
 
